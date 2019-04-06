@@ -4,39 +4,31 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p> <b> “When I hear somebody sigh, Life is hard, I am always tempted to ask, ‘Compared to what?'” – Sydney Harris</b>  </p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Love the challenge in life, hence my transition to become a 'hacker'.  Love puzzle, love socializing, and engiering new ways to fix a problem.  I enjoy life from diffrent view points.  Life is dynamic, and can not be viewed from a fixed point.
+Currently working as an Operation Engineer @ Veracode.  The enviorment at my workspace is marvelous! As a company in the cyber security field, conducting <i>Static Analysis</i>, and other forms of security I'm really blessed to work with people short of genuis, from social engineering to traditinal software engineering,
+
+</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
+	<li> C++ - Java </li>
+	<li>Production Deployment (Winodow/Server) </li>
 	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
+        <li>Python(Scripting- creating tool)</li>
+	<li>Bash Scripting </li>
 	<li>Git</li>
-	<li>PHP</li>
+	<li>SVN</li>
 	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>ORACLE SQL</li>
+        <li>JIRA</li>
+        <li>CLI </li>
+	<li> Continuous Deployment</li>
 </ul>
 
+<!-- 
 <h2>Projects</h2>
 
 <ul>
@@ -44,3 +36,6 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
 </ul>
+ 
+
+-->
