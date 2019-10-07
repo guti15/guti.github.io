@@ -18,23 +18,19 @@ Currently working as an Operation Engineer @ Veracode.  The environment at my wo
 	It was not until an <em>‘Indian run’</em> during football that I discover my interest for running. Running is a 1 on 1 sport with oneself where you are benchmarking yourself.
 </p>
 <p>Success is not a destination; success is a journey.<em> Keep Running .</em> </p>
-	
-<h2>Skills</h2>
 
-<ul class="skill-list">
-	<li> C++ - Java </li>
-	<li>Production Deployment (Winodow/Server) </li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-        <li>Python(Scripting- creating tool)</li>
-	<li>Bash Scripting </li>
-	<li>Git</li>
-	<li>SVN</li>
-	<li>Python</li>
-	<li>ORACLE SQL</li>
-        <li>JIRA</li>
-        <li>CLI </li>
-	<li> Continuous Deployment</li>
+
+<p>
+<h2> Education</h2> 
+
+<ul>
+	<li><a href="https://wheatoncollege.edu/">Wheaton College</a>    Norton, MA</li>
+	<li><a href="https://www.lacademy.edu">Lawrence Academy</a>    Groton, MA</li>
+	<li><a href="https://www.beaconacademy.org/">Beacon Academy</a>    Boston, MA</li>
 </ul>
+
+</p>	
+
 
 <!-- 
 <h2>Projects</h2>
