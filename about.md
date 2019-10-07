@@ -15,9 +15,10 @@ Currently working as an Operation Engineer @ Veracode.  The environment at my wo
 
 <p>
 	They say bones become stronger after being fractured. But anyone who has dealt with any sport  injury will tell you, the pain is dreadful. As a runner, I’ve learned to pace myself pick up the milage day by day, train on a constant basis, focus on various muscle, and train your mind to not give up. Running has helped me implement that to my work ethic. Maximizing performance takes time and diligence. Running was never a sport of choice for me growing up. Growing up I commuted 2 hours just to get to school, so adding steps as a “sport” seemed austere.  
-	It was not until an <em>‘Indian run’</em> during football that I discover my interest for running. Running was a 1 on 1 sport with your self. 
+	It was not until an <em>‘Indian run’</em> during football that I discover my interest for running. Running is a 1 on 1 sport with oneself where you are benchmarking yourself.
 </p>
-
+<p>Success is not a destination; success is a journey.<em> Keep Running .</em> </p>
+	
 <h2>Skills</h2>
 
 <ul class="skill-list">
