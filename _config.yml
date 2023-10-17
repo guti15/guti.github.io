@@ -1,11 +1,8 @@
 # main text of home
 name: Robert Gutierrez	
-bio: Salvadorian in Tech.  Currently working at Veracode, DevOps Hacker.
+bio: Hey I'm Robert Gutierrez based in Boston, Massachusetts. An Engineer working remote for Veracode.
 
-
-# twitter summary info
-description: Young Latino Salvadorian living in Boston Ma, embracing the tech space. Challeging the status quo, being a  free thinker, and advocating cyber security. An alum of Beacon Academy, Lawrence Academy, Wheaton College.   
-
+description: Hey I'm Robert Gutierrez based in Boston, Massachusetts. An Engineer working remote for Veracode. Visit to read more about me.
 
 # if it's an external image, update below for true
 # better with square images
@@ -19,9 +16,9 @@ resume-external: false
 resume-url: assets/images/Rob_2019_res.pdf
 #resume-url: https://google.com/?q=my+resume
 
-#url: https://koppl.in/indigo
+
 url: https://www.bobbyg.io
-# your url: http://USERNAME.github.io
+
 
 permalink: /:title/
 
@@ -42,34 +39,24 @@ facebook: 0x52guti
 #twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
-# pinterest: mypinterest
 linkedin: 0x52guti
 # youtube: myyoutube
 # spotify: myspotify
 github: guti15
 # gitlab: mygitlab
-# lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
-# quora: userquora
 # reddit: username
 #medium: medium
-# vimeo: myvimeo
-# lanyrd: mylanyrd
 email: guti310@gmail.com
 
 authors:
     RobertGutierrez:
         name: Robert Gutierrez
-        bio: Salvadorian in Tech.  Currently working at Veracode, DevOps Hacker.
+        bio: Salvadorian in Tech. Currently working at Veracode. Current interest are Blockchain, cloud, security.  Hometown Boston Massachusetts. 
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
- #   jamesfoster:
-        #name: James Foster
-        #bio: A Man who develops software with coffee
-        #external-image: false
-        #picture: assets/images/james.jpg
-        #twitter: jamesfoster
+
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal

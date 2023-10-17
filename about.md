@@ -7,7 +7,7 @@ layout: page
 <p> <b> “When I hear somebody sigh, Life is hard, I am always tempted to ask, ‘Compared to what?'” – Sydney Harris</b>  </p>
 
 <!-- <p>Love seeking new challenges in life, hence my transition to become a 'hacker'.  Love puzzle, love socializing, and engineering new ways to fix a problem.  I enjoy life from different view points.  Life is dynamic, and can not be viewed from a fixed point.
-Currently working as an Operation Engineer @ Veracode.  The environment at my workspace is marvelous! As a company in the cyber security field, conducting <i>Static Analysis</i>, and other forms of security I'm really blessed to work with people short of genius, from social engineering to traditional software engineering.
+Currently working as a software Engineer @ Veracode.  As a company in the cyber security field focusing in application security, conducting <i>static nalysis & dynamic analysis</i>, and other forms of security offering our customers our best advice on where to remidiate their software. I'm really blessed to work with people short of genius, from social engineering to traditional software engineering.
 
 </p>
  -->
